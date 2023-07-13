@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b1d3e593.css",
+    "main.js": "/static/js/main.d3f27a77.js",
+    "static/css/64.bba8fa55.chunk.css": "/static/css/64.bba8fa55.chunk.css",
+    "static/js/64.ec95194b.chunk.js": "/static/js/64.ec95194b.chunk.js",
+    "static/css/769.b3cbb36b.chunk.css": "/static/css/769.b3cbb36b.chunk.css",
+    "static/js/769.6b18baac.chunk.js": "/static/js/769.6b18baac.chunk.js",
+    "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/performance_award.png": "/static/media/performance_award.61768442364afd99fcd8.png",
+    "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/UOP_logo.png": "/static/media/UOP_logo.f42347f3092e2f4d2047.png",
+    "static/media/McKinsey_&_Company_Logo.png": "/static/media/McKinsey_&_Company_Logo.c939cab64cce866e4a46.png",
+    "static/media/manOnTable.svg": "/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/contactMailDark.svg": "/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/developerActivity.svg": "/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/Hubex_logo.png": "/static/media/Hubex_logo.7c4a96fea3b40a976444.png",
+    "static/media/udacity_logo.png": "/static/media/udacity_logo.92f7118e301ef1674358.png",
+    "static/media/Mini_logo.jpeg": "/static/media/Mini_logo.f006a75729416b43fcdb.jpeg",
+    "static/media/skill.svg": "/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "index.html": "/index.html",
+    "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.b1d3e593.css.map": "/static/css/main.b1d3e593.css.map",
+    "main.d3f27a77.js.map": "/static/js/main.d3f27a77.js.map",
+    "64.bba8fa55.chunk.css.map": "/static/css/64.bba8fa55.chunk.css.map",
+    "64.ec95194b.chunk.js.map": "/static/js/64.ec95194b.chunk.js.map",
+    "769.b3cbb36b.chunk.css.map": "/static/css/769.b3cbb36b.chunk.css.map",
+    "769.6b18baac.chunk.js.map": "/static/js/769.6b18baac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1d3e593.css",
+    "static/js/main.d3f27a77.js"
+  ]
+}
